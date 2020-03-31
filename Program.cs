@@ -7,6 +7,7 @@ namespace Repo
         static void Main(string[] args)
         {
             Console.WriteLine("Facundo Martínez");
+            Console.WriteLine("Facundo Martínez");
         }
     }
 }
