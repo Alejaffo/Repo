@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/anakaprielian/Desktop/conflictos/Repo/Repo.csproj": {}
   },
   "projects": {
@@ -12,9 +13,29 @@
         "projectPath": "/Users/anakaprielian/Desktop/conflictos/Repo/Repo.csproj",
         "packagesPath": "/Users/anakaprielian/.nuget/packages/",
         "outputPath": "/Users/anakaprielian/Desktop/conflictos/Repo/obj/",
+=======
+    "c:\\Users\\estudiante.fit\\Repo\\Repo.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\estudiante.fit\\Repo\\Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\estudiante.fit\\Repo\\Repo.csproj",
+        "projectName": "Repo",
+        "projectPath": "c:\\Users\\estudiante.fit\\Repo\\Repo.csproj",
+        "packagesPath": "C:\\Users\\estudiante.fit\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\estudiante.fit\\Repo\\obj\\",
+>>>>>>> FacundoMartinez
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "/Users/anakaprielian/.nuget/NuGet/NuGet.Config"
+=======
+          "C:\\Users\\estudiante.fit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> FacundoMartinez
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

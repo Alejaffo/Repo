@@ -1,5 +1,9 @@
 {
   "version": 1,
+<<<<<<< HEAD
   "dgSpecHash": "Lqb3HjWDUvpC2iEkqnStitmVCJoxEoCGtv+SFRMOBuoQ3LdsYpzyVjGMXA2p22lr8BJimkJZ2rMrnrx3Lad6aA==",
+=======
+  "dgSpecHash": "VzkQOzDbC1Oncf89NnZC5GL9WtmnkUb5taXe/aYXq4O8Mz2ZdPX5PGto5p9s+03DT7jVrNEnaWSBQaX3uGTtYg==",
+>>>>>>> FacundoMartinez
   "success": true
 }
